@@ -1,5 +1,9 @@
 ### Hello there 👋
 
+I'm a finance professor at HEC Montreal, and I love coding.
+
+Check out my blog, [Vincent Codes Finance](https://vincent.codes.finance/)!
+
 <!--
 **vgreg/vgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
