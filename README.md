@@ -2,7 +2,7 @@
 
 I'm a finance professor at HEC Montreal, and I love coding.
 
-Check out my blog, [Vincent Codes Finance](https://vincent.codes.finance/)!
+Check out my [blog](https://vincent.codes.finance/) and [Youtube channel](https://www.youtube.com/channel/UCuNrwdpvF1LBGJ2cNL5b68w)!
 
 <!--
 **vgreg/vgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
