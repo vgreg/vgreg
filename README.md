@@ -2,9 +2,9 @@
 
 I'm a finance professor at HEC Montreal. My research interests are at the intersection of finance and technology: information economics, market microstructure, big data and machine learning applications in finance, fintech, and cybersecurity in finance
 
-I especially enjoy coding.
-
 Check out my [blog](https://vincent.codes.finance/) and [Youtube channel](https://www.youtube.com/@VincentCodesFinance)!
+
+![Vincent Grégoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgreg&show_icons=true&theme=radical)
 
 <!--
 **vgreg/vgreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Vincent Grégoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgreg&show_icons=true&theme=radical)
 -->
