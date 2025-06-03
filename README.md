@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-I'm a finance professor at HEC Montreal, and I love coding.
+I'm a finance professor at HEC Montreal. My research interests are at the intersection of finance and technology: information economics, market microstructure, big data and machine learning applications in finance, fintech, and cybersecurity in finance
+
+I especially enjoy coding.
 
 Check out my [blog](https://vincent.codes.finance/) and [Youtube channel](https://www.youtube.com/@VincentCodesFinance)!
 
